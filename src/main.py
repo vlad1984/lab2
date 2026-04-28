@@ -8,7 +8,8 @@ def main():
       = Update an existing account (using unique ID)
       = Deposit/Withdrawal
       = Check member status
-'''
+  '''
 
 if __name__ == '__main__':
+  #main()
   TestBank.run_unit_test()
