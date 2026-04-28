@@ -1,3 +1,6 @@
+from acc import *
+from test import *
+
 def main():
   '''Introduce a while true loop that has the exit condition of ‘q’
     Prompt the user to handle one of the following:
@@ -8,4 +11,4 @@ def main():
 '''
 
 if __name__ == '__main__':
-  main()
+  TestBank.run_unit_test()
